@@ -1,6 +1,9 @@
+[![](https://images.microbadger.com/badges/image/superruzafa/tikz2image.svg)](https://microbadger.com/images/superruzafa/tikz2image "Get your own image badge on microbadger.com")
+[![](https://images.microbadger.com/badges/version/superruzafa/tikz2image.svg)](https://microbadger.com/images/superruzafa/tikz2image "Get your own version badge on microbadger.com")
+
 # superruzafa/tikz2image
 
-Converts Tkiz (la)tex documents into images.
+Converts Tkiz (La)TeX documents into images.
 
 ## Usage
 
